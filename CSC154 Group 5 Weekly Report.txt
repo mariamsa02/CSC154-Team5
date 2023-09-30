@@ -1,0 +1,35 @@
+CSC154 Software Development
+Project Weekly Progress Report 
+
+Project Name: Library System 
+Team Number: 5
+Project Manager: Mariam Ahmed
+Team Members: AJ Clark, William Henderson, Noah Liby, Stephen Strong, Elisa Pfau, Matthew Salstrom, Deandre Scott
+Team Mentor:  Lisa Schenkewitz
+Date Duration: 9/25/2013 - 10/01/2023
+Tasks scheduled for this week:
+* Decide on a project idea and discuss details
+* Complete project overview draft
+* Weekly group meeting
+Tasks completed for this week:
+* Decided on a project idea and discussed details
+* Completed project overview draft
+* Weekly group meeting
+Open issues for this week:
+* Submit project overview draft
+
+Open changes for project plan and the reasons for the changes:
+* Changes: N/A
+* Reasons: N/A
+Tasks completed by each team member:
+* Project manager Mariam Ahmed: Completed project overview draft, discussed details
+* Member 1 AJ Clark: Completed project overview draft, discussed details 
+* Member 2 William Henderson:  Completed project overview draft, discussed details
+* Member 3 Noah Liby: Completed project overview draft, discussed details
+* Member 4 Stephen Strong: Completed project overview draft, discussed details 
+* Member 5 Elisa Pfau: Completed project overview draft, discussed details
+* Member 6 Matthew Salstrom: Completed project overview draft, discussed details
+* Member 7 Deandre Scott: Completed project overview draft, discussed details
+
+Tasks scheduled for next week: Complete the project overview
+
