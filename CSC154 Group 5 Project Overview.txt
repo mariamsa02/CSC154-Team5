@@ -1,0 +1,60 @@
+CSC154 Software Development 
+Project Overview 
+
+Project Name: Library System 
+Team Number: 5
+Project Manager: Mariam Ahmed
+Mentor: Lisa Schenkewitz
+Team Members:
+1. AJ Clark
+2. William Henderson
+3. Noah Liby
+4. Elisa Pfau
+5. Matthew Salstrom
+6. Deandre Scott
+7. Stephen Strong
+
+-------------------------------------------------------------------------------------------------------------------
+1. Project Objective
+* Briefly describe the primary goals and objectives of the project.
+* Design a library system that is easy to navigate and manages library resources.
+2. Project Scope
+* Define the boundaries of the project, including what is included and excluded.
+* Our project would assign fees for overdue books, but the software will not process payments
+* The database will be organized by checked out/not checked out, title, author, date published, ISBN, publisher, genre, nonfiction/fiction
+* Limit to how many books can be checked out
+* List the main features and functionalities to be developed.
+* Check in/out books
+* Web-based user interface
+* Database of books
+* Track, change, and view the current status of books (checked out, missing, available).
+* Ability to put books on hold
+* Create new book entries in the database.
+* Ability for different users to log in, interact with the system, and have their information saved after logging out
+* 
+* The features and functionalities can be modified in future milestones.
+
+
+3. Team Collaboration and Documentation Tools
+* Specify the collaboration and documentation tools / platforms that will be used in this project development.
+
+
+* GitHub
+* Teams
+
+
+* Describe how your group will use these tools / platforms during this project development.
+* Teams will be used for meetings, file sharing, communications, etc.
+* GitHub will be used for project management, edits, files, etc.  
+
+
+4. Project Management Plan and Methodologies
+* Specify what project management methods and tools will be used in this project development.
+* Agile 
+* Scrum
+
+
+* Describe how your group will use these project management methods and tools during this project development.
+* Work Breakdown Structure (WBS)
+* Agile Project Management
+
